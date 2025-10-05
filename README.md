@@ -38,21 +38,18 @@ Caso tenha interesse, estou disponível para contato pelo meu LinkedIn: Disponí
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=Nianck-02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-    align="left" 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
     alt="Gráfico de Tecnologias" 
-    height="200" 
-    style="margin-top: 15px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nianck-02&layout=donut&theme=tokyonight&langs_count=10&custom_title=Tecnologias" 
-/>
-
+  />
 </p>
+
+
