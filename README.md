@@ -51,7 +51,7 @@ Caso tenha interesse, estou disponível para contato pelo meu LinkedIn: Disponí
     align="left" 
     alt="Gráfico de Tecnologias" 
     height="200" 
-    style="margin-top: 10px;" 
+    style="margin-top: 15px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nianck-02&layout=donut&theme=tokyonight&langs_count=10&custom_title=Tecnologias" 
 />
 
