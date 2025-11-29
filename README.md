@@ -53,6 +53,6 @@ Caso tenha interesse, estou disponível para contato pelo meu **LinkedIn (dispon
   <img
     alt="Gráfico de Tecnologias"
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nianck-02&layout=donut&theme=tokyonight&langs_count=10&custom_title=Tecnologias"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nianck-02&layout=compact&theme=tokyonight&langs_count=10&custom_title=Tecnologias"
   />
 </p>
